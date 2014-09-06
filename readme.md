@@ -1,25 +1,33 @@
-## Laravel PHP Framework
+WeDiversifi
+===============
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+#The spark
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+Kayla ([@kayladns](http://www.twitter.com/kayladnls)) and I ([@gabidavila](http://www.twitter.com/gabidavila)) were in [LaraconEU](http://laracon.eu) 2014 talking to [Matt Stauffer](http://www.twitter.com/stauffermatt), and it was a conversation post a [diversity presentation](http://www.slideshare.net/gabidavila/coding-like-a-girl?qid=7e7ce085-0fb4-4cfe-97f3-118f6489b311&v=default&b=&from_search=1), and Matt said that the he was facing some difficulties regarding contacting the minority/diversity groups, because they don't answer to his emails.
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+So when he has a job opening, he tries to advertise to those kinds of groups, but as he receives no feedback, it was hard even getting non-white males to submit to his job posting. He asked us if we had any idea on how to help him through our contacts to send to him people we know of, like women, people of color, and from other ethinicity.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+#The idea
 
-## Official Documentation
+So this is when this idea come in place. We want to create a portal for companies and potential candidates, where companies commit to try to increase their diversity rate, and there they create a profile with their vision of diversity and with their Linkedin job feeds, or another tool like that.
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+#Why?
 
-### Contributing To Laravel
+That way we would have a centralized portal with companies, and we all know that Facebook, Google and other big companies have diversity hiring programs, but they don't know if company A or B are diversity friendly.
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+#How?
 
-### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+* Company profiles
+* User profiles
+
+
+* Companies sign up and pledge support for diversity. 
+* We pull in a feed of job posting for that company. 
+* Applicants apply to job posting. 
+* If a company hires based on applicants recieved through us, they gain points and are scored. 
+* Companies get a badge for their effort
+
+#What do we need?
+
+Help of the community, this is project that will be done in our free time, so we need designers, frontend, backend, basically anyone who can help us!
