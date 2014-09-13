@@ -1,0 +1,66 @@
+@import 'bootstrap/bootstrap.less';
+/*
+ *  Your styles go here! :)
+*/
+
+@brand-primary:         rgb(247, 158, 38); /* orange */
+@brand-secondary:       rgb(2, 115, 141);  /* blue */
+@brand-tertiary:        rgb(204, 39, 92);  /* fushia */
+
+@font-family-brand:     "vinyl",sans-serif;
+
+
+/*
+ *  Your styles go here! :)
+*/
+
+body { 
+    background: url(../img/pixel-street-picture.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: rgb(235, 235, 235);
+}
+
+a {
+    color: @brand-primary;
+    &:hover {
+        color: @brand-tertiary;
+    }
+}
+
+h1,h2,h3,h4,label,.brand-font,.button {
+    font-family: @font-family-brand;
+}
+
+input {
+    &:focus {
+        outline-color: @brand-primary;
+    }
+}
+
+.brand-large {
+    font-size: 4em;
+}
+
+.brand-body {
+    font-size: 1.2em;
+}
+
+.well {
+    background: rgba(38, 38, 38, 0.5) url(../img/photo-overlay-pattern.png) repeat;
+    border: none;
+    color: rgb(235, 235, 235);
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    border-radius: 0 0 5px 5px;
+}
+
+.overlay-container {
+    background: rgba(38, 38, 38, 0.5) url(../img/photo-overlay-pattern.png) repeat;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 2em;
+}
