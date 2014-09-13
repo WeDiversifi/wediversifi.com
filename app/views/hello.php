@@ -36,7 +36,7 @@
 
                 <p><a target="_blank" href="http://www.twitter.com/kayladnls">Kayla</a> and <a target="_blank" href="http://www.twitter.com/gabidavila">I</a> were at <a target="_blank" href="http://laracon.eu/2014/">LaraconEU</a> 2014 talking to <a target="_blank" href="http://www.twitter.com/stauffermatt">Matt Stauffer</a> after my <a target="_blank" href="http://www.slideshare.net/gabidavila/coding-like-a-girl">diversity presentation</a> and Matt mentioned that he had been facing some difficulties contacting minority groups with job opportunities because they often weren't responding to his emails.</p>
 
-                <p>Matt likes to make sure all groups of people are included in his search to fill roles, but as he receives no feedback, it's hard getting non-white males to apply for job postings. He asked us if we had any ideas of how to connect with people we know of such as women and people from diverse ethinicities.</p>
+                <p>Matt likes to make sure all groups of people are included in his search to fill roles, but as he receives no feedback, it's hard getting non-white males to apply for job postings. He asked us if we had any ideas of how to connect with people we know of such as women and people from diverse ethnicities.</p>
 
                 <h2>The Vision</h2>
 
@@ -47,10 +47,10 @@
                 <ul class="task-list">
                     <li>Company profiles</li>
                     <li>Candidate profiles</li>
-                    <li>Pledge support for diversity and receive a weDiversify Badge</li>
+                    <li>Pledge support for diversity and receive a <span class="brand-font brand-body">weDiversify</span> Badge</li>
                     <li>Job postings</li>
-                    <li>Candidate applications for job postings</li>
-                    <li>When companies hire through us,they gain points and are ranked</li>
+                    <li>Applying for job postings</li>
+                    <li>Company ranking based on hiring through <span class="brand-font brand-body">weDiversify</span></li>
                 </ul>
             </article>
         </div>
@@ -114,7 +114,7 @@
 
                         <p>This project will be built on our free time, so we need designers, front-end, back-end, and anyone else who can help us!</p>
 
-                        <p>Let us know if you'd like to help or if you're interested in <span class="brand-font">weDiversify</span> updates.</p>
+                        <p>Let us know if you'd like to help or if you're interested in <span class="brand-font brand-body">weDiversify</span> updates.</p>
 
                         <div class="indicates-required">
                             <span class="asterisk">*</span> indicates required
@@ -166,7 +166,7 @@
     <div class="row">
         <div class="col-md-12">
             <h3>Want to learn more?</h3>
-            <p>Feel free to contact: <a href="http://twitter.com/gabidavila">@gabidavila</a> or <a href="http://twitter.com/kayladnls">@kayladnls</a></p>
+            <p>Feel free to contact: <a href="http://twitter.com/gabidavila"><i class="fa fa-twitter-square"></i> gabidavila</a> or <a href="http://twitter.com/kayladnls"><i class="fa fa-twitter-square"></i> kayladnls</a></p>
         </div>
     </div>
 

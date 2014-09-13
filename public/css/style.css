@@ -6201,6 +6201,9 @@ input:focus {
 .brand-large {
   font-size: 4em;
 }
+.brand-body {
+  font-size: 1.2em;
+}
 .well {
   background: rgba(38, 38, 38, 0.5) url(../img/photo-overlay-pattern.png) repeat;
   border: none;
