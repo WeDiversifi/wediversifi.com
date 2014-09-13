@@ -34,7 +34,7 @@
             <article class="overlay-container">
                 <h2>The Inspiration</h2>
 
-                <p><a target="_blank" href="http://www.twitter.com/kayladnls">Kayla</a> and <a target="_blank" href="http://www.twitter.com/gabidavila">I</a> were at <a target="_blank" href="http://laracon.eu/2014/">LaraconEU</a> 2014 talking to <a target="_blank" href="http://www.twitter.com/stauffermatt">Matt Stauffer</a> after my <a target="_blank" href="http://www.slideshare.net/gabidavila/coding-like-a-girl">diversity presentation</a> and Matt mentioned that he had been facing some difficulties contacting minority groups with job opportunities because they often weren't responding to his emails.</p>
+                <p><a target="_blank" href="http://www.twitter.com/kayladnls">Kayla</a> and <a target="_blank" href="http://www.twitter.com/gabidavila">Gabi D'Avila</a> were at <a target="_blank" href="http://laracon.eu/2014/">LaraconEU</a> 2014 talking to <a target="_blank" href="http://www.twitter.com/stauffermatt">Matt Stauffer</a> after Gabi's <a target="_blank" href="http://www.slideshare.net/gabidavila/coding-like-a-girl">diversity presentation</a> and Matt mentioned that he had been facing some difficulties contacting minority groups with job opportunities because they often weren't responding to his emails.</p>
 
                 <p>Matt likes to make sure all groups of people are included in his search to fill roles, but as he receives no feedback, it's hard getting non-white males to apply for job postings. He asked us if we had any ideas of how to connect with people we know of such as women and people from diverse ethnicities.</p>
 
