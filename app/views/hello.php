@@ -20,7 +20,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="well pull-right">
-                <p><a href="http://www.twitter.com/gabidavila"><i class="fa fa-twitter fa-lg"></i> Twitter</a></p>
+                <p><a href="http://www.twitter.com/wediversifi"><i class="fa fa-twitter fa-lg"></i> Twitter</a></p>
 
                 <p><a href="http://www.github.com/wediversifi/wediversifi.com"><i class="fa fa-github fa-lg"></i> Github</a>
                 </p>
